@@ -66,7 +66,6 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
         ├── Modele_par_OLT_PEAG.py         # Détection locale par croisement OLT-PEAG
         ├── Modele_supervise.py            # Modèle supervisé + SHAP
         └── Serie_temporelle_OLT_PEAG.py   # Anomalies par moyennes mobiles
-/Output                     # Résultats produits par les modèles
 /README.md                  # Description du projet
 /Requirements.txt           # Dépendances Python 
 
