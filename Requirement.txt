@@ -1,0 +1,27 @@
+# Base
+pandas
+numpy
+matplotlib
+scipy
+seaborn
+
+# Machine Learning & interpretabilité
+scikit-learn
+shap
+statsmodels
+
+# Barres de progression
+tqdm
+
+# Visualisation intéractive et géographique
+folium
+ipython
+geopandas
+
+# Graphiques et visualisation de réseaux
+networkx
+pyvis
+
+# Support parquet
+pyarrow
+
